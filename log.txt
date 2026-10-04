@@ -1,0 +1,13 @@
+*   26ba0fa 2026-10-04 | Merge feature-console into main (конфликт решён в консоли) (HEAD -> main, origin/main) [Alexander Adler]
+|\  
+| * a9fcd8c 2026-10-04 | feature-console: правка первой строки [Alexander Adler]
+* | ae6818f 2026-10-04 | main: вторая правка первой строки [Alexander Adler]
+|/  
+*   b04e185 2026-10-04 | Merge feature-b into main (конфликт решён в VS Code) [Alexander Adler]
+|\  
+| * 3d0ed54 2026-10-04 | feature-b: уникальная правка первой строки [Alexander Adler]
+* | cdcdb0c 2026-10-04 | main: правка перед merge feature-b [Alexander Adler]
+|/  
+* 77f6f96 2026-10-04 | feature-a: добавить содержание 4-ой строки [Alexander Adler]
+* 79ed1c2 2026-10-04 | feature-a: добавить содержание 3-ей строки [Alexander Adler]
+* c16a731 2026-10-04 | Initial commit: README [Alexander Adler]
